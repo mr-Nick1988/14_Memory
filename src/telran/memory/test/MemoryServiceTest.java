@@ -2,7 +2,6 @@ package telran.memory.test;
 
 import org.junit.jupiter.api.Test;
 import telran.memory.utils.MemoryService;
-
 import static org.junit.jupiter.api.Assertions.*;
 
 public class MemoryServiceTest {
